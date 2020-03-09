@@ -47,7 +47,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583758625722</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="initial commit">
+      <created>1583759183610</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1583759183610</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="UpdateCopyrightCheckinHandler">
@@ -62,10 +69,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/-3840.0.1536.848/0.0.1920.1040@0.0.1920.1040" timestamp="1583758862985" />
-    <state x="569" y="120" key="CommitChangelistDialog2" timestamp="1583758624935">
+    <state x="569" y="120" key="CommitChangelistDialog2" timestamp="1583759182790">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="569" y="120" key="CommitChangelistDialog2/-3840.0.1536.848/0.0.1920.1040@0.0.1920.1040" timestamp="1583758624935" />
+    <state x="569" y="120" key="CommitChangelistDialog2/-3840.0.1536.848/0.0.1920.1040@0.0.1920.1040" timestamp="1583759182790" />
     <state x="694" y="285" key="EnvironmentVariablesDialog" timestamp="1583758700975">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -74,9 +81,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="811" y="503" key="FileChooserDialogImpl/-3840.0.1536.848/0.0.1920.1040@0.0.1920.1040" timestamp="1583759163861" />
-    <state x="463" y="165" key="SettingsEditor" timestamp="1583759170576">
+    <state x="463" y="165" key="SettingsEditor" timestamp="1583759267812">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="463" y="165" key="SettingsEditor/-3840.0.1536.848/0.0.1920.1040@0.0.1920.1040" timestamp="1583759170575" />
+    <state x="463" y="165" key="SettingsEditor/-3840.0.1536.848/0.0.1920.1040@0.0.1920.1040" timestamp="1583759267812" />
   </component>
 </project>
