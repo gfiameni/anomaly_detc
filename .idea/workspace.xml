@@ -1,31 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8c82e3f4-0047-4a71-928a-606c8f961b02" name="Default Changelist" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/anomaly_detc.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/_static/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/authors.rst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/changelog.rst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/conf.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/index.rst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/license.rst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/anchor.egg-info/PKG-INFO" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/anchor.egg-info/SOURCES.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/anchor.egg-info/dependency_links.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/anchor.egg-info/not-zip-safe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/anchor.egg-info/requires.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/anchor.egg-info/top_level.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/anchor/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/anchor/skeleton.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/conftest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_skeleton.py" afterDir="false" />
+    <list default="true" id="8c82e3f4-0047-4a71-928a-606c8f961b02" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +27,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -62,6 +40,14 @@
       <option name="presentableId" value="Default" />
       <updated>1583753206591</updated>
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1583758625722</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1583758625722</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="UpdateCopyrightCheckinHandler">
@@ -72,9 +58,25 @@
     <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="569" y="120" key="CommitChangelistDialog2" timestamp="1583758569126">
+    <state x="414" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583758862985">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="569" y="120" key="CommitChangelistDialog2/-3840.0.1536.848/0.0.1920.1040@0.0.1920.1040" timestamp="1583758569126" />
+    <state x="414" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/-3840.0.1536.848/0.0.1920.1040@0.0.1920.1040" timestamp="1583758862985" />
+    <state x="569" y="120" key="CommitChangelistDialog2" timestamp="1583758624935">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="569" y="120" key="CommitChangelistDialog2/-3840.0.1536.848/0.0.1920.1040@0.0.1920.1040" timestamp="1583758624935" />
+    <state x="694" y="285" key="EnvironmentVariablesDialog" timestamp="1583758700975">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="694" y="285" key="EnvironmentVariablesDialog/-3840.0.1536.848/0.0.1920.1040@0.0.1920.1040" timestamp="1583758700975" />
+    <state x="811" y="503" key="FileChooserDialogImpl" timestamp="1583759163861">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="811" y="503" key="FileChooserDialogImpl/-3840.0.1536.848/0.0.1920.1040@0.0.1920.1040" timestamp="1583759163861" />
+    <state x="463" y="165" key="SettingsEditor" timestamp="1583759170576">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="463" y="165" key="SettingsEditor/-3840.0.1536.848/0.0.1920.1040@0.0.1920.1040" timestamp="1583759170575" />
   </component>
 </project>
