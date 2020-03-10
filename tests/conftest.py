@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-    Dummy conftest.py for anchor.
+    Dummy conftest.py for anomaly_detc.
 
     If you don't know what this is for, just leave it empty.
     Read more about conftest.py under:
